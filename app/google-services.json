@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219419108033",
+    "project_id": "dependencyinjection-18711",
+    "storage_bucket": "dependencyinjection-18711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219419108033:android:b24ef2c500f6d4c8aa2a40",
+        "android_client_info": {
+          "package_name": "com.example.dependencyinjection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219419108033-bp9ovrfr95saicav69et3c0sb8ro1gva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUP4YjX82VLK0US0d-rZ7i4-AY-6CgYiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219419108033-bp9ovrfr95saicav69et3c0sb8ro1gva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
